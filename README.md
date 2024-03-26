@@ -3,7 +3,9 @@
 -----------------------------------------------
 
 ## Introduction
-In this repository you will find a C++ project that showcases the uses of Haar Cascades for object detection.
+
+In this repository you will find a C++ project that showcases the uses of Haar Cascades for object detection. 
+
 -----------------------------------------------
 
 ## What is a Haar Cascade? 
