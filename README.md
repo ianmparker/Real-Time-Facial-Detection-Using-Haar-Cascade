@@ -45,9 +45,13 @@ If you are new to Coding, C++, or IDE's like Visual Studios, you might find this
 ## Using an Image instead of a Webcam
 ![image](https://github.com/ianmparker/Real-Time-Facial-Detection-Using-Haar-Cascade/assets/18231849/8959d37c-b4b6-4835-b09f-57e41c8b827d)
 
-You may notice a large chunk of commented out code at the bottom of FacialDetection.cpp
+You may notice a large chunk of commented out code at the bottom of FacialDetection.cpp.
+
 This is a a bonus section for detecting faces from images instead of using a webcam's live stream. 
+
 You can edit the path to that of your own photo to try this with your own still image. 
+
+Just make sure you don't try to use both at the same time. 
 
 ---------------------------------------------
 ## Improvements/Next Steps 
