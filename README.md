@@ -59,7 +59,7 @@ Just make sure you don't try to use both at the same time.
 
 As it currently stands the system has a hard time detecting faces while moving or when making certain expressions. 
 
-In the photo above my research partner Jada decided that our photo needed to be interrupted with kisses, which made things harder for the system to detect my face. 
+In the photo above my research partner Jada decided that our test needed to be interrupted with kisses, which made things harder for the system to detect my face. 
 
 This could be improved upon by increasing the confidence of 
 
