@@ -51,7 +51,6 @@ This is a a bonus section for detecting faces from images instead of using a web
 
 You can edit the path to that of your own photo to try this with your own still image. 
 
-Just make sure you don't try to use both at the same time. 
 
 ---------------------------------------------
 ## Improvements/Next Steps 
