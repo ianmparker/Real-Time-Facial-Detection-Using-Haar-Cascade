@@ -1,5 +1,7 @@
 # Real-Time-Facial-Detection-Using-Haar-Cascade
 
+My LinkedIn: https://www.linkedin.com/in/ian-parker-596011142/
+
 ![realtime_facial_detection](https://github.com/ianmparker/Real-Time-Facial-Detection-Using-Haar-Cascade/assets/18231849/00fa3c4b-b403-425a-b580-bb0c43c3f77d)
 
 
@@ -59,4 +61,6 @@ This could be improved upon by increasing the confidence of
 
 ---------------------------------------------
 ## References
-Provide information about the project's license.
+  - MIT OpenCourseWare - Lecture 13: Object Detection, Recognition and Pose Determination, PatQuick - https://www.youtube.com/watch?v=lVfm6C51t_Y&list=PLUl4u3cNGP63pfpS1gV5P9tDxxL_e4W8O&index=13
+  - Nicolai Nielsen: Object Detection Made Easy: Haar Cascade Classifier Tutorial with OpenCV C++ - https://www.youtube.com/watch?v=oGkxJQ9SB8M
+  - Murtaza's Workshop: LEARN OPENCV C++ in 4 HOURS - https://www.youtube.com/watch?v=2FYm3GOonhk
