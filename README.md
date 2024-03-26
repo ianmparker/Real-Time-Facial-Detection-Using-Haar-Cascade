@@ -29,12 +29,12 @@ The result of subtraction of these two summations is the feature extracted value
 Haar cascade combines multiple Haar features in a hierarchy to build a classifier.
 
 Instead of analyzing the entire image with each Haar feature, cascades break down the detection process into stages, each consisting of a set of features.
-----------------------------------------------
-
-## Overview
 
 ----------------------------------------------
 ## Installation
+
+If you are new to Coding, C++, or IDE's like Visual Studios, you might find this tutorial: 
+  - https://github.com/murtazahassan/Learn-OpenCV-cpp-in-4-Hours/blob/main/Opecv%20Windows%20Installation.md
 
 ----------------------------------------------
 ## Using a Image instead of a Webcam
