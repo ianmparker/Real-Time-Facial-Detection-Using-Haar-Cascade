@@ -1,5 +1,8 @@
 # Real-Time-Facial-Detection-Using-Haar-Cascade
 
+![realtime_facial_detection](https://github.com/ianmparker/Real-Time-Facial-Detection-Using-Haar-Cascade/assets/18231849/00fa3c4b-b403-425a-b580-bb0c43c3f77d)
+
+
 -----------------------------------------------
 
 ## Introduction
@@ -33,7 +36,7 @@ Instead of analyzing the entire image with each Haar feature, cascades break dow
 ----------------------------------------------
 ## Installation
 
-If you are new to Coding, C++, or IDE's like Visual Studios, you might find this tutorial: 
+If you are new to Coding, C++, or IDE's like Visual Studios, you might find this tutorial to help you set up your environment.  
   - https://github.com/murtazahassan/Learn-OpenCV-cpp-in-4-Hours/blob/main/Opecv%20Windows%20Installation.md
 
 ----------------------------------------------
@@ -43,6 +46,15 @@ If you are new to Coding, C++, or IDE's like Visual Studios, you might find this
 You may notice a large chunk of commented out code at the bottom of FacialDetection.cpp
 This is a a bonus section for detecting faces from images instead of using a webcam's live stream. 
 You can edit the path to that of your own photo to try this with your own still image. 
+
+## Improvements/Next Steps 
+![Smooches from beanie](https://github.com/ianmparker/Real-Time-Facial-Detection-Using-Haar-Cascade/assets/18231849/295193fd-0484-41b0-90ba-6bcfab7607c9)
+
+As it currently stands the system has a hard time detecting faces while moving or when making certain expressions. 
+
+In the photo above my research partner Jada decided that our photo needed to be interrupted with kisses, which made things harder for the system to detect my face. 
+
+This could be improved upon by increasing the confidence of 
 
 ---------------------------------------------
 ## References
