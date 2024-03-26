@@ -3,12 +3,15 @@
 -----------------------------------------------
 
 ## Introduction
-This project uses Haar Cascades for object detection. 
+In this repository you will find a C++ project that showcases the uses Haar Cascades for object detection.
+
+## What is a Haar Cascade? 
+
+![image](https://github.com/ianmparker/Real-Time-Facial-Detection-Using-Haar-Cascade/assets/18231849/95110121-c636-4ed7-b4b3-09f30065c16d)
+
 Haar Cascades are machine learning object detection algorithms. 
 They use Haar features to determine the likelihood of a certain point being part of an object. 
 In this case that object is a human face.
-
-## What is a Haar Cascade? 
 Haar Cascades make use of a kind of filter to perform feature extraction from the given image. 
 These filters inspect only one portion of the image at a time. 
 The intensity of the pixels in the white portion and in the black portion is added. 
