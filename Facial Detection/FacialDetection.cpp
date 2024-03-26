@@ -9,7 +9,6 @@ using namespace std;
 
 // /////////////////  Real-Time Facial Detection Using a Webcam ////////////////
 
-// Main function where the program starts
 void main() {
 
 	// Create a VideoCapture object and open the camera for video capturing
@@ -58,7 +57,7 @@ void main() {
 
 
 /////////////////  Facial Detection Using an Image     //////////////////////
-//// Main function where the program starts
+
 //void main() {
 //
 //	// Define the path to the image file
