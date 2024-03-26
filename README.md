@@ -61,7 +61,7 @@ As it currently stands the system has a hard time detecting faces while moving o
 
 In the photo above my research partner Jada decided that our test needed to be interrupted with kisses, which made things harder for the system to detect my face. 
 
-The accuracy of facial detection could be increased by the following: 
+In theory the accuracy of facial detection could be increased by the following: 
 
 		// Convert the image to grayscale
 		Mat gray;
