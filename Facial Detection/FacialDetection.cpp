@@ -62,7 +62,7 @@ void main() {
 //void main() {
 //
 //	// Define the path to the image file
-//	string path = "Resources/test.png";
+//	string path = "Resources/TheGoat.png";
 //
 //	// Read the image file from the specified path
 //	Mat img = imread(path);
