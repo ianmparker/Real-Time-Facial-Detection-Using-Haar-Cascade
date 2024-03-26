@@ -1,4 +1,4 @@
-# Real-Time-Facial-Detection-Using-Haar-Cascade
+# Real-Time-Facial-Detection-Using-Haar-Cascades
 
 My LinkedIn: https://www.linkedin.com/in/ian-parker-596011142/
 
